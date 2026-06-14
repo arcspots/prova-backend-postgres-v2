@@ -62,7 +62,7 @@ PostgreSQL Container
 ## Estrutura do Projeto
 
 ```bash
-Prova_Backend_Japa_v2.0/
+Prova_Backend_Alyson_Ribeiro_v2.0/
 │
 ├── app/
 │   ├── auth.py
